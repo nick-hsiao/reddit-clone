@@ -1,4 +1,7 @@
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/RedditCloneApplication.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/exception/SpringRedditException.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/controller/AuthController.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/service/MailService.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/Subreddit.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/Post.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/Vote.java
@@ -7,9 +10,13 @@
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/repository/UserRepository.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/NotificationEmail.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/VerificationToken.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/service/AuthService.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/VoteType.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/config/SecurityConfig.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/model/User.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/repository/CommentRepository.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/repository/VerificationTokenRepository.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/service/MailContentBuilder.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/repository/SubredditRepository.java
+/Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/dto/RegisterRequest.java
 /Users/nick/git/reddit-clone/src/main/java/com/example/redditclone/repository/VoteRepository.java
